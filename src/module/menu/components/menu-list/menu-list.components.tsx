@@ -1,4 +1,3 @@
-import pizzaMenu from "@app/mocks/pizza.json";
 import { FC } from "react";
 import { MenuItem } from "@app/module/menu/components/menu-item/menu-item.component";
 import { Pizza } from "@app/module/menu/components/types/pizza";
